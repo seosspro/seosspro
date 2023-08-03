@@ -3,10 +3,6 @@
 <a href="https://www.instagram.com/ruyanxz/">
   <img align="left" alt="Dmitry's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discordapp.com/users/374064526913568768">
-  <img align="left" alt="Dmitry's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
 
 <br />
 
